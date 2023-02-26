@@ -38,7 +38,5 @@ class Magazine
   end 
 end
 
-# Create some magazines for testing
-magazine1 = Magazine.new("Magazine 1", "Category 1")
-magazine2 = Magazine.new("Magazine 2", "Category 2")
+
 

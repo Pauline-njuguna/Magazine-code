@@ -11,6 +11,8 @@ Clone this repository to your local machine
 
 Navigate to the project directory in your terminal
 
+Run bundle install (to install necessary dependencies)
+
 Run ruby run.rb to start the program
 
 # Classes
